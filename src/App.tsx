@@ -1,13 +1,20 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header';
+import CareerSection from './components/CareerSection';
+import AboutMeSection from './components/AboutMeSection';
+import HighlightedReposSection from './components/HighlightedReposSection';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
+      <Header />
+      <main>
+        <CareerSection />
+        <AboutMeSection />
+        <HighlightedReposSection />
+      </main>
     </div>
   );
 }
