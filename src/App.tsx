@@ -1,20 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import Header from './components/Header';
-import CareerSection from './components/CareerSection';
-import AboutMeSection from './components/AboutMeSection';
-import HighlightedReposSection from './components/HighlightedReposSection';
+import Landing from './components/Landing';
+import { BrowserRouter, Route } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <Header />
-      <main>
-        <CareerSection />
-        <AboutMeSection />
-        <HighlightedReposSection />
-      </main>
+      <BrowserRouter>
+        <>
+          {/* <Landing /> */}
+          <Route path="/" exact component={Landing} />
+        </>
+      </BrowserRouter>
     </div>
   );
 }
