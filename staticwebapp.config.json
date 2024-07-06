@@ -1,0 +1,11 @@
+{
+    "routes": [
+        {
+            "route": "/*",
+            "headers": {
+                "X-Developed-By": "Paul Pemberton",
+                "X-Notes": "Snooping on my headers? :)"
+            }
+        }
+    ]
+}

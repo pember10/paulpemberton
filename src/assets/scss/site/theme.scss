@@ -1,0 +1,89 @@
+@mixin bg-variant($parent, $color) {
+    #{$parent} {
+        background-color: $color;
+    }
+}
+
+@mixin hover-focus() {
+
+    &:hover,
+    &:focus {
+        @content;
+    }
+}
+
+@mixin bmd-hover-focus {
+    @include hover-focus() {
+        @content;
+    }
+}
+
+@mixin hover-focus-active() {
+
+    &:hover,
+    &:focus,
+    &:active {
+        @content;
+    }
+}
+
+@mixin bmd-hover-focus-active {
+
+    // add the .active to the whole mix of hover-focus-active
+    &.active {
+        @content;
+    }
+
+    @include hover-focus-active() {
+        @content;
+    }
+}
+
+@each $color, $value in $colors {
+    @include bg-variant(".bg-#{$color}", $value);
+}
+
+// components
+
+@import "functions";
+@import "variables";
+@import "mixins";
+
+@import "reboot";
+@import "global";
+@import "utilities";
+
+@import "accordion";
+@import "alert";
+@import "avatar";
+@import "badge";
+@import "buttons";
+@import "card";
+@import "carousel";
+@import "close";
+@import "content";
+@import "custom-forms";
+@import "dropdown";
+@import "footer";
+@import "forms";
+@import "grid";
+@import "icons";
+@import "input-group";
+@import "list-group";
+@import "modal";
+@import "nav";
+@import "navbar";
+@import "pagination";
+@import "popover";
+@import "progress";
+@import "section";
+@import "separator";
+@import "type";
+
+// Vendor
+
+@import "vendors";
+
+// Docs
+
+@import "docs";
