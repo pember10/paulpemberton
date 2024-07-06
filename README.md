@@ -1,46 +1,34 @@
-# Getting Started with Create React App
+# Paul Pemberton
+Welcome! I’m glad you’re here. I’m a hybrid Senior Software Engineer, meaning I have dual IC and People Manager roles. I am an MCSD in web platforms, and have skills in C#, React, TypeScript, Azure, ASP (.Net and Core), web services, APIs, and much more. I also have a passion for people, and love to help other developers grow in their skills and careers.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## My GitHub
+Check out some of my favorite repos:
 
-## Available Scripts
+- **VazkiiMods/Botania**: A tech mod for Minecraft themed around the magic of nature and plant life.
+- **Azanor/thaumcraft-5**: Localization and bug reporting for Thaumcraft 5.
+- **GSA/data.gov**: Main repository for the data.gov service.
 
-In the project directory, you can run:
+## Backend, Frontend, Full Stack. Oh My!
+While my title is Senior Software Engineer, I am competent in the entire web stack. From deep business logic all the way up to the presentation layer, and everything in between, I can handle it.
+- **Languages & Frameworks**: C#, Java, .NET Core, React, TypeScript, SCSS, Razor, etc.
+- **Tools**: Visual Studio Code, Visual Studio Pro, GitHub Copilot, IntelliJ IDEA, Azure, GitHub, Jira, SQL Server.
+- **Methodologies**: Agile and Scrum SDLCs.
 
-### `npm start`
+## Let’s Connect!
+I Dabble In Everything
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Even in my downtime, I’m still coding. I love to learn new ways of doing things, or learn new technologies. Here are a couple of projects I’m currently working on:
+- **Thaumcraft 4 Reboot**: A re-write of the popular (and my favorite) Minecraft mod Thaumcraft 4.
+- **Phylogenesis**: A horticultural database that allows you to search for plants based on their scientific names, common names, or other characteristics.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## About Me
+Schweitzer once said, “Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”
 
-### `npm test`
+### Mind for Coding
+I’m a Senior Software Engineer. I love coding, people, and discovery. I crave autonomy and mastery, and I love to help others grow in their skills and careers. For fun, I code game mods, websites, apps, or just tinker with something new.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Work With My Hands
+I am a carpenter at heart. Most of the furniture in my house I built myself. I have a passion for DIY, and I love to build things. Right now, I’m rebuilding a 1980 Ford F-250. It was my great grandpa’s truck, my grandpa’s truck, and now it’s mine. It has a lot of sentimental history.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Family is My World
+Family is the single most important thing to me. I have a wife and three children. When we’re not watching Chopped together, we’re fishing, camping, playing video games, or going on an adventure.
