@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Collapse, DropdownItem, DropdownMenu, DropdownToggle, Nav, Navbar, NavbarBrand, NavbarProps, NavbarText, NavbarToggler, NavItem, NavLink, UncontrolledDropdown, UncontrolledTooltip } from 'reactstrap';
+import { Collapse, Nav, Navbar, NavbarBrand, NavbarToggler, NavItem, NavLink, UncontrolledTooltip } from 'reactstrap';
 import { ISocialMediaProps } from '../Footers/SimpleFooter';
 
 export interface INewNavbarProps {
