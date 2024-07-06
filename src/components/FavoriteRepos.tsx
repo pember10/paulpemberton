@@ -75,7 +75,7 @@ const FavoriteRepos: React.FC<IFavoriteReposProps> = (props) => {
                                 <Col lg="4" key={repo.id}>
                                     <Card className="card-lift--hover shadow border-0">
                                         <CardBody className="py-5">
-                                            <img src={repo.owner.avatar_url} style={{width: '4rem'}} />
+                                            <img alt={repo.owner.login} src={repo.owner.avatar_url} style={{width: '4rem'}} />
                                             <h6 className="text-primary text-uppercase">{repo.full_name}</h6>
                                             <p className="description mt-3">{repo.description}</p>
                                             <div>

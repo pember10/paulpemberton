@@ -55,8 +55,8 @@ const SimpleFooter: React.FC<ISimpleFooterProps> = (props) => {
                     <Col md="6">
                         <div className="copyright">
                             &copy; {new Date().getFullYear()}{" "}
-                            <a href="https://www.paulpemberton.com?ref=footer" target="_blank">Paul Pemberton</a>.
-                            Design by <a href="https://www.creative-tim.com" target="_blank"> Creative Tim</a>.
+                            <a href="https://www.paulpemberton.com?ref=footer" target="_blank" rel="noreferrer">Paul Pemberton</a>.
+                            Design by <a href="https://www.creative-tim.com" target="_blank" rel="noreferrer"> Creative Tim</a>.
                         </div>
                     </Col>
                 </Row>

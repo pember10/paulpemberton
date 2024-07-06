@@ -1,22 +1,20 @@
-import React, { useEffect, useRef } from 'react';
-import DemoNavbar from './Navbars/DemoNavbar';
-import AboutMe from './AboutMe';
-import CurrentProjects from './CurrentProjects';
-import CompetentFullStack from './CompetentFullStack';
-import FavoriteRepos from './FavoriteRepos';
-import Hero from './Hero';
-import SimpleFooter, { ISocialMediaProps } from './Footers/SimpleFooter';
-import CardsFooter from './Footers/CardsFooter';
-import Toolstack, { IToolProps } from './Toolstack';
-import VsCode from '../assets/img/icons/vscode.svg';
+import React from 'react';
 import Azure from '../assets/img/icons/azure.svg';
 import Copilot from '../assets/img/icons/copilot.svg';
 import GitHub from '../assets/img/icons/github.svg';
 import IntelliJIdea from '../assets/img/icons/intellijidea.svg';
 import Jira from '../assets/img/icons/jira.svg';
 import SqlServer from '../assets/img/icons/sqlserver.svg';
+import VsCode from '../assets/img/icons/vscode.svg';
 import VsPro from '../assets/img/icons/vspro2022.svg';
+import AboutMe from './AboutMe';
+import CompetentFullStack from './CompetentFullStack';
+import CurrentProjects from './CurrentProjects';
+import FavoriteRepos from './FavoriteRepos';
+import SimpleFooter, { ISocialMediaProps } from './Footers/SimpleFooter';
+import Hero from './Hero';
 import NewNavbar from './Navbars/NewNavbar';
+import Toolstack, { IToolProps } from './Toolstack';
 
 
 const Landing: React.FC = () => {

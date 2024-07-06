@@ -55,7 +55,7 @@ const CurrentProjects: React.FC<ICurrentProjectsProps> = () => {
                                             structure of Minecraft changed in 1.18, the mod basically has to be
                                             re-written from scratch to work in newer versions.
                                         </p>
-                                        <a className="text-success" href="https://github.com/pember10/thaumcraftreboot" target='_blank'>
+                                        <a className="text-success" href="https://github.com/pember10/thaumcraftreboot" target='_blank' rel="noreferrer">
                                             Learn more
                                         </a>
                                     </div>
@@ -80,7 +80,7 @@ const CurrentProjects: React.FC<ICurrentProjectsProps> = () => {
                                             for plants based on their scientific names, common names, or other
                                             characteristics.
                                         </p>
-                                        <a className="text-warning" href="https://github.com/pember10/phylogenesis" target='_blank'>
+                                        <a className="text-warning" href="https://github.com/pember10/phylogenesis" target='_blank' rel="noreferrer">
                                             Learn more
                                         </a>
                                     </div>
