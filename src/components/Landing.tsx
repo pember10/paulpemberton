@@ -53,49 +53,49 @@ const Landing: React.FC = () => {
         return [
             {
                 name: 'Visual Studio Code',
-                description: 'Code editing, redefined',
+                description: 'For most of my coding',
                 icon: VsCode,
                 url: 'https://code.visualstudio.com/',
             },
             {
                 name: 'Visual Studio Pro',
-                description: 'IDE for any platform',
+                description: 'For my .NET coding',
                 icon: VsPro,
                 url: 'https://visualstudio.microsoft.com/vs/professional/',
             },
             {
                 name: 'GitHub Copilot',
-                description: 'Your AI pair programmer',
+                description: 'Pretty much everywhere',
                 icon: Copilot,
                 url: 'https://github.com/features/copilot',
             },
             {
                 name: 'IntelliJ IDEA',
-                description: 'The Leading Java IDE',
+                description: 'For my MC mods dev',
                 icon: IntelliJIdea,
                 url: 'https://www.jetbrains.com/idea/',
             },
             {
                 name: 'Azure',
-                description: 'Solutions for every app',
+                description: 'All of my cloud stuff',
                 icon: Azure,
                 url: 'https://azure.microsoft.com/',
             },
             {
                 name: 'GitHub',
-                description: 'The world\'s repo',
+                description: 'Where all my code lives',
                 icon: GitHub,
                 url: 'https://github.com/',
             },
             {
                 name: 'Jira',
-                description: 'Issue & project tracking',
+                description: 'For work issue tracking',
                 icon: Jira,
                 url: 'https://www.atlassian.com/software/jira',
             },
             {
                 name: 'SQL Server',
-                description: 'The database engine',
+                description: 'Most of my data work',
                 icon: SqlServer,
                 url: 'https://www.microsoft.com/en-us/sql-server/sql-server-downloads',
             }

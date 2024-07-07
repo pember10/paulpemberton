@@ -51,7 +51,7 @@ const SimpleFooter: React.FC<ISimpleFooterProps> = (props) => {
                     </Col>
                 </Row>
                 <hr />
-                <Row className=" align-items-center justify-content-md-between">
+                <Row className=" align-items-center justify-content-md-between pb-5">
                     <Col md="6">
                         <div className="copyright">
                             &copy; {new Date().getFullYear()}{" "}
