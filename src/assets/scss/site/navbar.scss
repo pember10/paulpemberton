@@ -22,10 +22,15 @@
 }
 
 .navbar-brand {
-    font-size: $font-size-sm;
     text-transform: uppercase;
-    font-size: 1.8rem;
     letter-spacing: 0.1rem;
+
+    @include media-breakpoint-down(sm) {
+        font-size: 1.2rem;
+    }
+    @include media-breakpoint-up(md) {
+        font-size: 1.8rem;
+    }
 
     img {
         height: 30px;

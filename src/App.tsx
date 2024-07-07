@@ -6,10 +6,7 @@ function App() {
   return (
     <div className="App">
       <BrowserRouter>
-        <>
-          {/* <Landing /> */}
-          <Route path="/" exact component={Landing} />
-        </>
+        <Route path="/" exact component={Landing} />
       </BrowserRouter>
     </div>
   );
