@@ -1,21 +1,13 @@
 # Paul Pemberton
 Welcome! I’m glad you’re here. I’m a hybrid Senior Software Engineer, meaning I have dual IC and People Manager roles. I am an MCSD in web platforms, and have skills in C#, React, TypeScript, Azure, ASP (.Net and Core), web services, APIs, and much more. I also have a passion for people, and love to help other developers grow in their skills and careers.
 
-## My GitHub
-Check out some of my favorite repos:
-
-- **VazkiiMods/Botania**: A tech mod for Minecraft themed around the magic of nature and plant life.
-- **Azanor/thaumcraft-5**: Localization and bug reporting for Thaumcraft 5.
-- **GSA/data.gov**: Main repository for the data.gov service.
-
 ## Backend, Frontend, Full Stack. Oh My!
 While my title is Senior Software Engineer, I am competent in the entire web stack. From deep business logic all the way up to the presentation layer, and everything in between, I can handle it.
 - **Languages & Frameworks**: C#, Java, .NET Core, React, TypeScript, SCSS, Razor, etc.
 - **Tools**: Visual Studio Code, Visual Studio Pro, GitHub Copilot, IntelliJ IDEA, Azure, GitHub, Jira, SQL Server.
 - **Methodologies**: Agile and Scrum SDLCs.
 
-## Let’s Connect!
-I Dabble In Everything
+## I Dabble In Everything
 
 Even in my downtime, I’m still coding. I love to learn new ways of doing things, or learn new technologies. Here are a couple of projects I’m currently working on:
 - **Thaumcraft 4 Reboot**: A re-write of the popular (and my favorite) Minecraft mod Thaumcraft 4.
