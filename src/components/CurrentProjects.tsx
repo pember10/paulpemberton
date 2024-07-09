@@ -51,9 +51,10 @@ const CurrentProjects: React.FC<ICurrentProjectsProps> = () => {
                                         </h5>
                                         <p>
                                             A re-write of the popular (and my favorite) Minecraft mod Thaumcraft 4. The
-                                            original version is stuck on 1.7.10, and since the entire entity and world
+                                            original version is stuck on 1.7.10, and since the entire Entity and Eorld
                                             structure of Minecraft changed in 1.18, the mod basically has to be
-                                            re-written from scratch to work in newer versions.
+                                            re-written from scratch to work in newer versions. I am not the original
+                                            author, so it's more of a hobby project.
                                         </p>
                                         <a className="text-success" href="https://github.com/pember10/thaumcraftreboot" target='_blank' rel="noreferrer">
                                             Learn more
@@ -76,7 +77,7 @@ const CurrentProjects: React.FC<ICurrentProjectsProps> = () => {
                                         </h5>
                                         <p>
                                             I love plants, and I love coding. So I decided to combine the two.
-                                            Phylogenesis is a horticultral database that allows you to search
+                                            Phylogenesis is a horticultural database that allows you to search
                                             for plants based on their scientific names, common names, or other
                                             characteristics.
                                         </p>
